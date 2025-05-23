@@ -70,7 +70,7 @@ python denoise.py input.wav output.wav
 ## 🧪 Example
 
 ```bash
-python audio_denoise_enhance.py noisy_speech.wav cleaned_speech.wav
+python denoise.py noisy_speech.wav cleaned_speech.wav
 ```
 
 ---
